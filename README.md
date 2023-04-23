@@ -1,5 +1,5 @@
 # 👋 Hey there! My name is Nayla<br/>
-![Nayla's github stats](https://github-readme-stats-yodaluca23.vercel.app/api?username=yodaluca23&theme=tokyonight&show_icons=true)<br/>
+![Nayla's github stats](https://github-readme-stats.vercel.app/api?username=EndangeredNayla&theme=tokyonight&show_icons=true)<br/>
 Some of the above (Powered by [GitHub-ReadME-Stats](https://github.com/anuraghazra/github-readme-stats)) info may not be correct, as it does not count stars and contributions to organizations.<br/>
 
 ## About Me
